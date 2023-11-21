@@ -3,9 +3,6 @@
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About the Project
 
